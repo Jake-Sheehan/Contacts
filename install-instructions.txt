@@ -1,0 +1,5 @@
+1. Open command line and navigate to project folder
+2. In the main folder of the project run
+	pip install .
+3. Also in the main folder run
+	python main.py
